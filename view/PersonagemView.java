@@ -151,7 +151,7 @@ public class PersonagemView {
             }
         });
 
-        // Adicionando tudo fisicamente na tela
+        
         janela.add(new JLabel("Digite o nome do personagem: "));
         janela.add(caixaNome);
         janela.add(painelDificu);
